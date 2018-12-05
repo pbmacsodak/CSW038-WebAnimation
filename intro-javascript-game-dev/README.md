@@ -4,6 +4,6 @@ This code accompanies [*Introducing JavaScript Game Development*](https://www.ap
 
 BE AWARE - the actual repository for this textbook is at: https://github.com/Apress/intro-javascript-game-dev.git
 
-I may have changed this code or added to the files as I teach a course in Web Animation...
+I may have changed the code or added additional files in this repository when I teach a course in Web Animation...
 
 
